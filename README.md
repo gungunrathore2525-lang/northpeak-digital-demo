@@ -4,9 +4,8 @@
   A modern, responsive digital marketing and web development agency website built with HTML, CSS, and JavaScript.
 </p>
 
-<p align="center">
-  <img src="https://1drv.ms/i/c/57b2825a22aa1ca0/IQDgA6GlHsXpQaqBaRLVoSDsAddRfh5AbPEnX8DB2m6sL_8?e=JzHCAe" alt="NorthPeak Digital Homepage Preview" width="900">
-</p>
+<img width="1914" height="862" alt="north peak" src="https://github.com/user-attachments/assets/c0ae22b4-7d7a-4a37-adb8-d2e8cbbd5895" />
+
 
 <p align="center">
   <a href="https://northpeak-digital-demo.vercel.app/"><strong>Live Demo</strong></a>
