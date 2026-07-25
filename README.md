@@ -29,23 +29,7 @@ NorthPeak Digital is a responsive agency website designed with a focus on clean 
 * Contact form with client-side validation
 * Services, Process, Pricing, and Testimonials sections
 
----
 
-
-
-## Getting Started
-
-1. Clone the repository.
-
-```bash
-git clone https://github.com/your-username/northpeak-digital.git
-```
-
-2. Open the project folder.
-
-3. Open `index.html` in your browser or run the project using any local development server.
-
----
 
 ## Live Website
 
