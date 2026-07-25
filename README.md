@@ -1,20 +1,59 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+<h1 align="center">NorthPeak Digital</h1>
 
-# Run and deploy your AI Studio app
+<p align="center">
+  A modern, responsive digital marketing and web development agency website built with HTML, CSS, and JavaScript.
+</p>
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/47455986-9f04-4a10-9415-b710ca43bf2d
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+<img width="1914" height="862" alt="north peak" src="https://github.com/user-attachments/assets/c0ae22b4-7d7a-4a37-adb8-d2e8cbbd5895" />
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+<p align="center">
+  <a href="https://northpeak-digital-demo.vercel.app/"><strong>Live Demo</strong></a>
+</p>
+
+---
+
+## Overview
+
+NorthPeak Digital is a responsive agency website designed with a focus on clean UI, accessibility, SEO, and performance. It showcases services, pricing, testimonials, and a contact form while following modern web development best practices.
+
+---
+
+## Features
+
+* Responsive design
+* Modern and clean user interface
+* Accessibility-focused implementation
+* SEO optimized
+* Performance optimized
+* Contact form with client-side validation
+* Services, Process, Pricing, and Testimonials sections
+
+---
+
+
+
+## Getting Started
+
+1. Clone the repository.
+
+```bash
+git clone https://github.com/your-username/northpeak-digital.git
+```
+
+2. Open the project folder.
+
+3. Open `index.html` in your browser or run the project using any local development server.
+
+---
+
+## Live Website
+
+https://northpeak-digital-demo.vercel.app/
+
+---
+
+## License
+
+This project was created for learning and demonstration purposes.
+
